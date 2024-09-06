@@ -1,0 +1,19 @@
+Phase 1: 
+
+1- Attempt to Replicate SDDP on a the Linear Policy Graph with noise                  (Done)
+2- Attempt to Replicate SDDP a Markovian Policy Graph with noise                      (Done)
+3- Attempt to Replicate SDDP on a Markovian Policy Graph without noise                (Done)
+4- Attempt to Generalize the algorithm for step number 3                              (Done) 
+
+
+Phase 2: 
+
+5- Replicate a very simple problem with minimal data and structure with binary and continous state and local variables  (simple GTEP maybe). 
+6- Generalize the Code above to solve the same problem (Making generalized code for a problem with and without noise). For this code, you can attempt it on older problems if you are not successful here. 
+7- Recreate and solve the actual paper 2 model on python on the small test case
+8- Once all of that is done, I can then try step by step different parallel algorithms on any of the small problems that contain both long and short term uncertainity. 
+9- Finally I can go ahead and attempt that on my large scale model from paper 2 and see if it is achievable. 
+10- Once all of that is done, I can then Experiment and Look into different types of cuts to make, and also different convergence Criteria. And be fully aware of the state of the art of the algorithm. 
+
+11- Start looking into different algorithms and MSSP solution methods for implementation. 
+
