@@ -8,6 +8,12 @@ Phase 1:
 
 Phase 2: 
 
+5- Without generalization, try to implement the algorithm on a problem with a binary+continous state variables, make it a simple, 3 stage, 5 node, 3 noise, problem 
+with little to no indecies (3bus, 1 time period, no ramp etc). Maybe replicate yet another example to see. After 
+
+5 - Try the generalization on the Hydro Thermal Example 
+
+
 5- Replicate a very simple problem with minimal data and structure with binary and continous state and local variables  (simple GTEP maybe). 
 6- Generalize the Code above to solve the same problem (Making generalized code for a problem with and without noise). For this code, you can attempt it on older problems if you are not successful here. 
 7- Recreate and solve the actual paper 2 model on python on the small test case
